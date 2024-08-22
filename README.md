@@ -206,6 +206,7 @@ TODO: For more complex security implementations, outline the approach as a TODO 
 Unit Tests: Write unit tests to verify the correct behaviour of the API endpoint.
 
 5. Documentation
+   
 Swagger: Use Swagger to document the API for easy understanding and testing.
 
 Setup and Installation
@@ -227,6 +228,6 @@ Build the project using Maven
 
 Run the application:
 
-By running src code
+By running AssessmentApplication.java in Source folder
 
 Access the API documentation at [http://localhost:8080/swagger-ui.html.](http://localhost:8080/swagger-ui/index.html#/supplier-controller/querySuppliers].
